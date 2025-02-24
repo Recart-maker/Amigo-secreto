@@ -2,7 +2,7 @@ Amigo Secreto
 
 Les comento que se trata de un juego para sortear al azar nombres de personas que entran en el juego.
 
-Deben ingresar un nombre en el espacio vacio, luego presionar el boton "añador"
+Deben ingresar un nombre en el espacio vacio, luego presionar el boton "añadir"
 
 Despaues de eso, deberan presionar el boton "Sortear Amigo"
 
